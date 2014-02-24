@@ -1,4 +1,4 @@
-HoustonHackathon2014
+Houston Hackathon 2014
 ====================
 
 This is a running list of project ideas for the Houston Hackathon.
